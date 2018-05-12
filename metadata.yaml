@@ -1,15 +1,21 @@
 _repo: Muistelmia-kuolleesta-talosta_49251
+_version: 0.1.0
 contributor:
   translator:
     agent_name: A. F. H.
     gutenberg_agent_id: '45224'
     url: http://www.gutenberg.org/2009/agents/45224
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dostoyevsky, F. M.
     gutenberg_agent_id: '45223'
     url: http://www.gutenberg.org/2009/agents/45223
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49251#Muistelmia-kuolleesta-talosta
 gutenberg_issued: '2015-06-21'
 gutenberg_type: Text
 identifiers:
